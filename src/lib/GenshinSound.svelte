@@ -3,13 +3,13 @@
   import baseRoute from '../BaseRoute';
 
   const sounds = [
+    '/music/GenshinOST/The Wind and The Star Traveler/Genshin Impact Main Theme [EEYMlUVKmyE].mp3',
     '/music/GenshinOST/The Wind and The Star Traveler/A Day in Mondstadt [muSibQfpHTE].mp3',
     "/music/GenshinOST/The Wind and The Star Traveler/A Storm, A Spire, and A Sanctum (Dvalin's Nest) [d1q9ahJCpLc].mp3",
     '/music/GenshinOST/The Wind and The Star Traveler/A Sweet Smile [Ql4kh7XFsps].mp3',
     '/music/GenshinOST/The Wind and The Star Traveler/A Tale of Two Dragons [SgvHmGCVZqs].mp3',
     '/music/GenshinOST/The Wind and The Star Traveler/Caelestinum Finale Termini [VqtScyk2C5A].mp3',
     '/music/GenshinOST/The Wind and The Star Traveler/Dawn Winery Theme [wdfgkJwfit8].mp3',
-    '/music/GenshinOST/The Wind and The Star Traveler/Genshin Impact Main Theme [EEYMlUVKmyE].mp3',
     '/music/GenshinOST/The Wind and The Star Traveler/Happy Journey [zfdIFm6CDe8].mp3',
     '/music/GenshinOST/The Wind and The Star Traveler/Knighthood Excellence [uZC1F1pAAZM].mp3',
     '/music/GenshinOST/The Wind and The Star Traveler/Lone Sojourner [IaXxCLXbowg].mp3',
