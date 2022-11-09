@@ -10,8 +10,10 @@
     "check": "svelte-check --tsconfig ./tsconfig.json"
   },
   "devDependencies": {
+    "@norathefurry/eslint-config": "^1.1.2",
     "@sveltejs/vite-plugin-svelte": "^1.1.0",
     "@tsconfig/svelte": "^3.0.0",
+    "eslint": "^8.27.0",
     "sass": "^1.56.0",
     "svelte": "^3.52.0",
     "svelte-check": "^2.9.2",
