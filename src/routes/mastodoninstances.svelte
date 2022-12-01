@@ -23,7 +23,7 @@
       <div style="color: #dedede; overflow-y: auto; max-height: 50vh;">
         <p>
           <a
-            href="https://p.astolfo.gay/yielding"
+            href="https://p.astolfo.gay/@yielding"
             target="_blank"
             rel="noopener noreferrer"
             ><span class="l">@Yielding</span>@p.astolfo.gay</a
@@ -31,7 +31,7 @@
           | Shitposting, General stuff
           <br />
           <a
-            href="https://p.astolfo.gay/yielding@fosstodon.org"
+            href="https://p.astolfo.gay/@yielding@fosstodon.org"
             target="_blank"
             rel="noopener noreferrer"
             ><span class="l">@yielding</span>@fosstodon.org</a
@@ -39,7 +39,7 @@
           | FOSS Projects
           <br />
           <a
-            href="https://p.astolfo.gay/yielding@a.sc"
+            href="https://p.astolfo.gay/@yielding@a.sc"
             target="_blank"
             rel="noopener noreferrer"><span class="l">@yielding</span>@a.sc</a
           >
